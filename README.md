@@ -1,4 +1,7 @@
-﻿## Compiling the mods
+##
+This is the source code of a port to update 1.6 of a mod for Stardew Valley.
+ 
+## Compiling the mods
 Installing stable releases from Nexus Mods is recommended for most users. If you really want to
 compile the mod yourself, read on.
 
