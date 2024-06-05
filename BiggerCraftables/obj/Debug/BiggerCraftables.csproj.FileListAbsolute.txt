@@ -1,0 +1,8 @@
+/home/darth/Downloads/Stardew Valley Mods/RuneMagic_Base/RequiredMods/BiggerCraftables_source/BiggerCraftables/bin/Debug/BiggerCraftables.deps.json
+/home/darth/Downloads/Stardew Valley Mods/RuneMagic_Base/RequiredMods/BiggerCraftables_source/BiggerCraftables/bin/Debug/BiggerCraftables.dll
+/home/darth/Downloads/Stardew Valley Mods/RuneMagic_Base/RequiredMods/BiggerCraftables_source/BiggerCraftables/obj/Debug/BiggerCraftables.csproj.AssemblyReference.cache
+/home/darth/Downloads/Stardew Valley Mods/RuneMagic_Base/RequiredMods/BiggerCraftables_source/BiggerCraftables/obj/Debug/BiggerCraftables.GeneratedMSBuildEditorConfig.editorconfig
+/home/darth/Downloads/Stardew Valley Mods/RuneMagic_Base/RequiredMods/BiggerCraftables_source/BiggerCraftables/obj/Debug/BiggerCraftables.AssemblyInfoInputs.cache
+/home/darth/Downloads/Stardew Valley Mods/RuneMagic_Base/RequiredMods/BiggerCraftables_source/BiggerCraftables/obj/Debug/BiggerCraftables.AssemblyInfo.cs
+/home/darth/Downloads/Stardew Valley Mods/RuneMagic_Base/RequiredMods/BiggerCraftables_source/BiggerCraftables/obj/Debug/BiggerCraftables.csproj.CoreCompileInputs.cache
+/home/darth/Downloads/Stardew Valley Mods/RuneMagic_Base/RequiredMods/BiggerCraftables_source/BiggerCraftables/obj/Debug/BiggerCraftables.dll
